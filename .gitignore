@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+*.pyd
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+teaching-2026/
+
+# Environment and lock files
+.env
+uv.lock
+.python-version
+
+# Editor and OS files
+*.swp
+*.swo
+.DS_Store
+.vscode/
+.idea/
